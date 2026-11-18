@@ -1,0 +1,223 @@
+{
+  "single": {
+    "image": 0,
+    "true_name": "Ankle boot",
+    "response": {
+      "class_id": 9,
+      "class_name": "Ankle boot",
+      "confidence": 0.9652,
+      "latency_ms": 17.74
+    }
+  },
+  "rows": [
+    {
+      "image": 0,
+      "true_id": 9,
+      "true_name": "Ankle boot",
+      "pred_id": 9,
+      "pred_name": "Ankle boot",
+      "confidence": 0.9652,
+      "latency_ms": 3.4,
+      "correct": true
+    },
+    {
+      "image": 1,
+      "true_id": 2,
+      "true_name": "Pullover",
+      "pred_id": 2,
+      "pred_name": "Pullover",
+      "confidence": 0.9904,
+      "latency_ms": 3.58,
+      "correct": true
+    },
+    {
+      "image": 2,
+      "true_id": 1,
+      "true_name": "Trouser",
+      "pred_id": 1,
+      "pred_name": "Trouser",
+      "confidence": 1.0,
+      "latency_ms": 3.7,
+      "correct": true
+    },
+    {
+      "image": 3,
+      "true_id": 1,
+      "true_name": "Trouser",
+      "pred_id": 1,
+      "pred_name": "Trouser",
+      "confidence": 0.9999,
+      "latency_ms": 3.26,
+      "correct": true
+    },
+    {
+      "image": 4,
+      "true_id": 6,
+      "true_name": "Shirt",
+      "pred_id": 6,
+      "pred_name": "Shirt",
+      "confidence": 0.6753,
+      "latency_ms": 3.46,
+      "correct": true
+    },
+    {
+      "image": 5,
+      "true_id": 1,
+      "true_name": "Trouser",
+      "pred_id": 1,
+      "pred_name": "Trouser",
+      "confidence": 0.9995,
+      "latency_ms": 3.8,
+      "correct": true
+    },
+    {
+      "image": 6,
+      "true_id": 4,
+      "true_name": "Coat",
+      "pred_id": 4,
+      "pred_name": "Coat",
+      "confidence": 0.9946,
+      "latency_ms": 4.09,
+      "correct": true
+    },
+    {
+      "image": 7,
+      "true_id": 6,
+      "true_name": "Shirt",
+      "pred_id": 6,
+      "pred_name": "Shirt",
+      "confidence": 0.9882,
+      "latency_ms": 3.74,
+      "correct": true
+    },
+    {
+      "image": 8,
+      "true_id": 5,
+      "true_name": "Sandal",
+      "pred_id": 5,
+      "pred_name": "Sandal",
+      "confidence": 1.0,
+      "latency_ms": 3.38,
+      "correct": true
+    },
+    {
+      "image": 9,
+      "true_id": 7,
+      "true_name": "Sneaker",
+      "pred_id": 7,
+      "pred_name": "Sneaker",
+      "confidence": 1.0,
+      "latency_ms": 3.95,
+      "correct": true
+    },
+    {
+      "image": 10,
+      "true_id": 4,
+      "true_name": "Coat",
+      "pred_id": 4,
+      "pred_name": "Coat",
+      "confidence": 0.982,
+      "latency_ms": 3.18,
+      "correct": true
+    },
+    {
+      "image": 11,
+      "true_id": 5,
+      "true_name": "Sandal",
+      "pred_id": 5,
+      "pred_name": "Sandal",
+      "confidence": 0.9998,
+      "latency_ms": 3.08,
+      "correct": true
+    },
+    {
+      "image": 12,
+      "true_id": 7,
+      "true_name": "Sneaker",
+      "pred_id": 5,
+      "pred_name": "Sandal",
+      "confidence": 0.9347,
+      "latency_ms": 3.23,
+      "correct": false
+    },
+    {
+      "image": 13,
+      "true_id": 3,
+      "true_name": "Dress",
+      "pred_id": 3,
+      "pred_name": "Dress",
+      "confidence": 0.9999,
+      "latency_ms": 3.16,
+      "correct": true
+    },
+    {
+      "image": 14,
+      "true_id": 4,
+      "true_name": "Coat",
+      "pred_id": 4,
+      "pred_name": "Coat",
+      "confidence": 0.823,
+      "latency_ms": 2.91,
+      "correct": true
+    },
+    {
+      "image": 15,
+      "true_id": 1,
+      "true_name": "Trouser",
+      "pred_id": 1,
+      "pred_name": "Trouser",
+      "confidence": 0.9992,
+      "latency_ms": 3.27,
+      "correct": true
+    },
+    {
+      "image": 16,
+      "true_id": 2,
+      "true_name": "Pullover",
+      "pred_id": 2,
+      "pred_name": "Pullover",
+      "confidence": 0.9819,
+      "latency_ms": 3.27,
+      "correct": true
+    },
+    {
+      "image": 17,
+      "true_id": 4,
+      "true_name": "Coat",
+      "pred_id": 2,
+      "pred_name": "Pullover",
+      "confidence": 0.688,
+      "latency_ms": 3.45,
+      "correct": false
+    },
+    {
+      "image": 18,
+      "true_id": 8,
+      "true_name": "Bag",
+      "pred_id": 8,
+      "pred_name": "Bag",
+      "confidence": 1.0,
+      "latency_ms": 4.48,
+      "correct": true
+    },
+    {
+      "image": 19,
+      "true_id": 0,
+      "true_name": "T-shirt/top",
+      "pred_id": 0,
+      "pred_name": "T-shirt/top",
+      "confidence": 0.9858,
+      "latency_ms": 4.09,
+      "correct": true
+    }
+  ],
+  "n_correct": 18,
+  "accuracy": 0.9,
+  "mean_latency_ms": 3.52,
+  "bad_input": {
+    "status_code": 400,
+    "response": {
+      "detail": "L'entrée doit contenir exactement 784 pixels."
+    }
+  }
+}

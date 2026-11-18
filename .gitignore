@@ -1,0 +1,21 @@
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Archives de rendu
+*.zip
+
+# Éditeurs / système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires Office
+~$*
